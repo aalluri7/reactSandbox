@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+}
+.item:hover {
+  border: 1px solid blue;
+  border-radius: 10px;
+}
+
+.item {
+  border: 1px solid transparent;
+  border-radius: 10px;
+}
